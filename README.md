@@ -16,3 +16,5 @@
 * 获取标签tags丶属性attributes丶值values
 
 实践过程的心得总结：
+（1）解析简单HTML页面，要注意greedy 所有<html> 元素标签。
+（2）xpath是一门在XML文档（包括html，以樹狀為主的純本文結構文檔）中查找信息的语言。
